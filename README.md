@@ -17,4 +17,3 @@ The recommendation engine, uses information about 1,80,000 products and  each pr
 5. Image of the apparel , etc...
 
 Data Source : amazon.com
-Dataset : https://drive.google.com/file/d/1pLSMmJNzmlkQhwSHhecDwHcb0C8mzG0Q/view?usp=sharing
